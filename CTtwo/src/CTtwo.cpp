@@ -22,12 +22,12 @@ int main() {
         std::cout << "Input string 2: "; // Second input
         std::getline(std::cin, stringTwo);
 
-        concatenatedStrings.push_back(stringOne + stringTwo);
+        concStrings.push_back(stringOne + stringTwo);
     }
 
     std::cout << "\nCombined Strings:\n"; // print
     for (const auto& stringConc : concStrings) {
-        std::cout << strongConc << std::endl;
+        std::cout << stringConc << std::endl;
     }
 
     return 0;
