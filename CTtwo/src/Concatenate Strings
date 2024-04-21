@@ -3,7 +3,7 @@
 // Author      : Cody Beggs
 // Version     : 1.0.0
 // Copyright   : Your copyright notice
-// Description : Concatates two strings from a user and iterates three times
+// Description : Concatenates two strings from a user and iterates three times
 //============================================================================
 
 #include <iostream>
