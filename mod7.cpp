@@ -1,8 +1,4 @@
 //============================================================================
-// Name        : mod7.cpp
-// Author      : Cody Beggs
-// Version     :
-// Copyright   : Your copyright notice
 // Description : Thread work with mutexes
 //============================================================================
 
